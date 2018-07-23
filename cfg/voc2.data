@@ -1,0 +1,6 @@
+classes= 46
+train  = /home/iloyu/Desktop/train/train8.txt
+valid  = /home/iloyu/Desktop/train/test2.txt
+names = data/voc2.names
+backup = backup
+
